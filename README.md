@@ -1,2 +1,2 @@
 # Maltplotlib
-In this repository, Analysis the 3 Class student attendance and plot there histogram barChart. 
+In this repository, Plot the mupltiple graph like Histogram,Barchart,Scatterplot,Pie Chart
